@@ -1,2 +1,12 @@
 ## Kai Haverts ⚡
-<div class="mb-5 flex"><div style="width:500px"><div data-giphy-id="j7IMUyNrNbEgVP4D46" data-giphy-is-sticker="false" style="width:500px;height:315px;overflow:hidden;border-radius:4px" class="sc-qZruQ ducTeV giphy-gif "><picture><source type="image/webp" srcset="<iframe src="https://giphy.com/embed/j7IMUyNrNbEgVP4D46" width="480" height="302" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uefa-j7IMUyNrNbEgVP4D46">via GIPHY</a></p>"</div>
+<div id='header' align='center'>
+  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVic3BmMHlnOXN0Nms2MnNwY3g3d3U5MTU1MTU2anpmbDlmYm15OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7IMUyNrNbEgVP4D46/giphy.gif'width="200"/>
+</div>
+<div id="badges">
+  <a href="https://t.me/asilbekahmedov1"
+      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red">
+  <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue">
+  </div>
