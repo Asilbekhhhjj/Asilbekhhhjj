@@ -1,6 +1,6 @@
 ## Kai Haverts ⚡
 <div id='header' align='center'>
-  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVic3BmMHlnOXN0Nms2MnNwY3g3d3U5MTU1MTU2anpmbDlmYm15OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7IMUyNrNbEgVP4D46/giphy.gif'width="200"/>
+  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRmcnIycHd1ZGRsdXRma3kzZzFqcGNzbGw1aXVqN3lyM2k2dHZ2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fW5nKIZV763BnkpWeC/giphy.gif'width="200"/>
 </div>
 <div id="badges">
   <a href="https://t.me/haverts004">
