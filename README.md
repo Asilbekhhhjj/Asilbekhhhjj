@@ -6,7 +6,16 @@
   <a href="https://t.me/asilbekahmedov1">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red">
-  <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white">
-  <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue">
+  <a href="https://www.instagram.com/asilbekahmedov707?igsh=MTJ0em9ja2Yzd25vdA">
+    <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100080811552936&mibextid=ZbWKwL"
+      <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue">
+  </a>
+  <a href="https://www.youtube.com/@SporSaga_TV">
+    <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red">
+  </a>
+  
+  
+  
   </div>
