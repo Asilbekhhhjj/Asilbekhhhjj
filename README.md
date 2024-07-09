@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/asilbekahmedov707?igsh=MTJ0em9ja2Yzd25vdA">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100080811552936&mibextid=ZbWKwL"
+  <a href="https://www.facebook.com/profile.php?id=100080811552936&mibextid=ZbWKwL">
       <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue">
   </a>
   <a href="https://www.youtube.com/@SporSaga_TV">
