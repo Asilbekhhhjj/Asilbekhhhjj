@@ -15,7 +15,8 @@
   <a href="https://www.youtube.com/@SporSaga_TV">
     <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red">
   </a>
-  
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=freedom-1&label=PROFILNI+KO'RISHLAR+SONI" alt=""/
   
   
   </div>
