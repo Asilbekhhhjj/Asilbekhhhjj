@@ -46,6 +46,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/samandareo/samandareo/blob/main/snake.svg"><img src="https://github.com/samandareo/samandareo/raw/main/snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 ----
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
