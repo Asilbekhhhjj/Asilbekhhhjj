@@ -1,4 +1,4 @@
-# Salom, men [Ismingiz]! 👋
+# Salom, men [Asilbek]! 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Software Engineering GIF">
@@ -39,16 +39,22 @@ Men **O'zbekistondan** bo'lgan **Full Stack Developer** va **Mobile Developer**m
 ### 📊 Statistika va Aktivlik:
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NAME&show_icons=true&theme=tokyonight&count_private=true" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_NAME&layout=compact&theme=tokyonight" />
+</p>
+
+### 📈 GitHub Streak (Qo'shimcha):
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_NAME&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Men bilan bog'lanish:
 <p align="left">
-<a href="https://t.me/haverts004" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:SizningEmailingiz@mail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/Ahmedov_Asilbek" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="asilbekahmedov1246@mail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
